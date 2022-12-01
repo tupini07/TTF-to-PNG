@@ -27,7 +27,7 @@ There are a lot of ways for installation.
 
 ### TTF-to-PNG
 
-    git clone https://github.com/sl2/TTF-to-PNG.git
+    git clone https://github.com/tupini07/TTF-to-PNG.git
 
 ## Usage
 
